@@ -1,0 +1,28 @@
+{
+  "name": "entregable_6",
+  "version": "1.0.0",
+  "description": "Tema: Websockets\r Link:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanoyen-teco/websockets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanoyen-teco/websockets/issues"
+  },
+  "homepage": "https://github.com/vanoyen-teco/websockets#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6",
+    "socket.io": "^4.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
